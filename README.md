@@ -7,3 +7,7 @@ Do not use these scripts if you are not comfortable with development. If you hav
 
 1. Insert the file into the server files
 2. Server.cfg  = start hud 
+
+###__Preview__###
+
+LInk : https://vanl.ink/j4L5U
